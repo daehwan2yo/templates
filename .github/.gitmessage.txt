@@ -1,5 +1,5 @@
 # author  > daehwan2yo
-# contect > udsward@gmail.com
+# contact > udsward@gmail.com
 
 # [Prefix] [커밋종류]-[이슈번호]-[간단설명]
 
