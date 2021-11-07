@@ -1,7 +1,7 @@
 # author  > daehwan2yo
 # contact > udsward@gmail.com
 
-# [Prefix] [커밋종류]-[이슈번호]-[간단설명]
+[커밋종류]-[이슈번호]-[간단설명]
 
 
 # 커밋 내용 (한 줄 72자 내)
